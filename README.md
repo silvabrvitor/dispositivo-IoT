@@ -8,4 +8,4 @@ Nessa primeira parte conta somente com um Buzzer(Alerta sonoro) e um sensor de p
 
 
 
-![](https://miro.medium.com/max/700/1*ef9C8IgAG5CIeFdS0PRw9g.jpeg)
+![](https://github.com/silvabrvitor/dispositivo-IoT/blob/master/IMG_20201213_200031621.jpg)
